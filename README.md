@@ -1,2 +1,3 @@
 # phpLDAPServer-
-Installation of LDAP server in ubuntu 
+Installation of LDAP server in php laraval project
+
